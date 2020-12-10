@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783235303049",
+    "firebase_url": "https://authenticationapp-ff007.firebaseio.com",
+    "project_id": "authenticationapp-ff007",
+    "storage_bucket": "authenticationapp-ff007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783235303049:android:11dc5908623f6c985c2858",
+        "android_client_info": {
+          "package_name": "com.cokobox.AuthenticationApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783235303049-4r697t4m81ihthe5k8a5jc3j6dpi6h52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdaTilqT6i-F9fDiWtwLM_txRwBBnagE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783235303049-4r697t4m81ihthe5k8a5jc3j6dpi6h52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
