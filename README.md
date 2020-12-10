@@ -1,2 +1,2 @@
-# AuthenticationApp
-created my first android application on github using firebase tools
+# CampusTouch App
+User app meant to assist students to get various tasks done around campus
