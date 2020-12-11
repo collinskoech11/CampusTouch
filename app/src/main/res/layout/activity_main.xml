@@ -16,7 +16,7 @@
         android:backgroundTintMode="src_atop"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="BoganiOneTap"
+        android:text="CampusTouch"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="30sp"
