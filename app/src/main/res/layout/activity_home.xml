@@ -12,7 +12,7 @@
         android:layout_width="411dp"
         android:layout_height="40dp"
         android:background="#66393535"
-        android:text="CampusTouch"
+        android:text="Rentika "
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         app:layout_constraintTop_toTopOf="parent" />
